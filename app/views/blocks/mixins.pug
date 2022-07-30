@@ -1,4 +1,4 @@
-mixin ListItem()
+mixin ListItem(title = "This is default title", caption = "This is default caption")
   li.list-item
-    h2.list-title list title
-    span.list-cation list cation
+    h2.list-title= title
+    span.list-cation= caption
