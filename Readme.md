@@ -3,4 +3,4 @@
 
 Gulp: tạo ra để sử dụng các tác vụ như webserver
 
-aaa
+Cài extention: SCSS IntelliSense
